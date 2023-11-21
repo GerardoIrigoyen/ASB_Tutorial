@@ -17,4 +17,4 @@ I have reviewed your figure, and I respect all the work that was put into it. In
 - **script_4**
     - Please change the ASB text color to red.
 - **script_5**
-    - Please change the year to "Reviewer 2 is the best," and make it green.
+    - Please change the year to "Reviewer 2 is the best," and make it green. OK
